@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-Date: 2022-11-25 10:39:04
+version: "1.0.0.1"
+id: "6E2CB28F-98FB-4B51-B6BE6C64ADF35473"
+name: "Lucee Extension"
+description: "Lucee Extension."
+release-type: web
