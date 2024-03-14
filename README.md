@@ -17,7 +17,7 @@ Generating LEX package...
 webshell/package.lex created.
 ```
 
-At this point upload the Extension into the Lucee installation. 
+At this point upload `webshell/package.lex` into the Lucee installation. 
 
 Then call the webshell with:
 
