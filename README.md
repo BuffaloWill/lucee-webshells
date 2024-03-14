@@ -5,7 +5,9 @@
 
 ### Building a Shell
 
-The blog post linked above walks through how to manually create the Lucee extension. You can also use the extension-generator.py script to build a backdoored extension:
+The blog post linked above walks through how to manually create the Lucee extension. 
+
+You can also use the extension-generator.py script in this repository to generate an extension for remote code execution:
 
 ```bash
 python3 extension-generator.py build
