@@ -1,5 +1,5 @@
 <cfsetting showdebugoutput="no">
-<cfset secretCode = "lErs2CC2BdpUtHYW0miiSNncE" /> <!--- Set this to something unique like a randomly generated SHA1 Hash --->
+<cfset secretCode = "SECRET_CODE" /> <!--- Set this to something unique like a randomly generated SHA1 Hash --->
 <cfset QuoteMark = "'" />
 <cfset DoubleQuoteMark = """" />
 
