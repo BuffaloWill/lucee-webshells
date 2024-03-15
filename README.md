@@ -28,7 +28,7 @@ uid=0(root) gid=0(root) groups=0(root)
 
 ### Testing Lucee
 
-The easiest way to test Lucee functionality is with Docker. To spin up a Lucee docker instance that matches your target,
+The easiest way to test Lucee functionality is with Docker. There are directions below for Lucee 5 and 4:
 
 #### Docker - Lucee 5:
 
