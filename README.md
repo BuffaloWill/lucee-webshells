@@ -1,8 +1,7 @@
 
 ## 
-### Generating Lucee Extension for Remote Code Execution
+### Lucee Web Shells
 ### Written by Juan Pablo Gomez (https://github.com/JPG0mez) and Will Vandevanter (https://github.com/BuffaloWill)
-
 The work is originally based on research and a blog post here: [LINK]
 
 This repository includes a python script to generate a Lucee extension that will add a webshell for remote code execution.
