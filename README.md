@@ -9,7 +9,7 @@ This repository includes a python script to generate a Lucee extension that will
 
 The extension works with Lucee 5 and 4. It should work on Lucee 6 but has not been tested.
 
-1. To use build an extension, use the `build` command:
+1. To build an extension, use the `build` command:
 
 ```bash
 python3 extension-generator.py build
