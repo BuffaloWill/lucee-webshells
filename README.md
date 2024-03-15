@@ -6,7 +6,8 @@
 The work is originally based on research and a blog post here: [LINK]
 
 This repository includes a python script to generate a Lucee extension that will add a webshell for remote code execution. 
-It works with Lucee 5 and 4. It should work on Lucee 6 but has not been tested.
+
+The extension works with Lucee 5 and 4. It should work on Lucee 6 but has not been tested.
 
 1. To use it run the `build` command:
 
